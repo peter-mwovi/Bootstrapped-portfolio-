@@ -1,4 +1,6 @@
+
 <h3><b>Portfolio: Desktop Version</b></h3>
+
 
 # 📗 Table of Contents
 
@@ -59,6 +61,7 @@ VS Code, downloading repo.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🛠 Built With <a name="built-with"></a>
 
+
 - HTML & CSS
 - Git, Github and Visual Studio Code
 
@@ -77,7 +80,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## 👥 Authors <a name="authors"></a>
 
-           **Peter NwoVi**
+           **Peter Nwovi**
        **Derek Akrasi Konadu**
        
 ## 👥 Future Features <a name="authors"></a>
@@ -106,3 +109,4 @@ This project is [MIT](./LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
