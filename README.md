@@ -1,4 +1,6 @@
-<h3><b>Bootstrap: Portfolio Desktop Version</b></h3>
+
+<h3><b>Portfolio: Desktop Version</b></h3>
+
 
 # 📗 Table of Contents
 
@@ -59,7 +61,8 @@ VS Code, downloading repo.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🛠 Built With <a name="built-with"></a>
 
-- HTML & CSS & BOOTSTRAP
+
+- HTML & CSS
 - Git, Github and Visual Studio Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -106,3 +109,4 @@ This project is [MIT](./LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
